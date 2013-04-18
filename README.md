@@ -24,3 +24,6 @@ multiplies n by x to get a new n value and decreases the value of x by 1. The wh
 loop continues until x is equal to 0. After the while loop finishes, the code returns
 the value n and prints it as well. If x is not an integer, the code simple prints 
 "Input must be an integer". 
+
+myfactorial(3) = 6
+myfactorial(3.1) = Input must be an integer
